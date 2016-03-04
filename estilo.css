@@ -1,0 +1,70 @@
+BODY {
+background-color: lightblue;
+background-image: url("imagen.png");
+background-repeat: no-repeat;
+background-position: right top;
+background-attachment: fixed;
+font-size: 10pt;
+font-family: Arial;
+margin-left: 0.5in;
+margin-right: 0.5in
+}
+
+h1{
+ position: relative;
+ width:300px;
+ text-transform:lowercase;
+ line-height :2.0;
+ direction: rtl;
+ word-spacing: 20px;
+ text-indent: 50px;
+ border-top-style: dotted;
+ border-bottom-style: solid;
+ border-width: 2px 10px 4px 20px;
+ border-color: blue;
+ margin-top: 100px;
+ margin-bottom: 50px;
+ padding-top: 50px;
+
+}
+
+.importante{
+	font-style:italic;
+	background-color:#FFF000;
+		color : rgb(128,128,128)
+}
+
+
+.clase2{
+	text-align: center;
+	color : #FF0000	
+}
+p.claseParrafo{
+	text-align: right;
+}
+/* comentarios */
+
+
+
+#unico {
+	font-size: 15pt;
+	
+}
+
+
+
+h1, h2, p{
+	text-align : center;
+	color : red;
+
+
+}
+
+
+
+
+
+
+
+
+
